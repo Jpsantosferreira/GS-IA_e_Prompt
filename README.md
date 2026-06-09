@@ -26,4 +26,4 @@ Para mudar os dados simulados, basta executar a célula de dados simulados novam
 Para atualizar a saída, faça o que o chatbot pedir e depois limpe as saídas da célula executada.      
 
 ## Vídeo de demonstração     
-[Assista ao vídeo demonstrativo]()      
+[Assista ao vídeo demonstrativo](https://youtu.be/4DuhjE6qTOI)      
